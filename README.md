@@ -9,3 +9,4 @@ Um projeo para aplicar os conhecimento do curso de reactjs da rocketseat
 | ------:| -----------:| -----------:|
 | styled-components   | __pesqisar...__ | [link](https://www.fastify.io/) |
 | @types/styled-components   | Tipagem do styled-components | [link](https://www.fastify.io/) |
+| phosphor-react   | Biblioteca de ícones | [link](https://www.fastify.io/) |
