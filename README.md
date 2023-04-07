@@ -7,6 +7,7 @@ Um projeo para aplicar os conhecimento do curso de reactjs da rocketseat
 
 | Nome | Descrição | Link |
 | ------:| -----------:| -----------:|
-| styled-components   | __pesqisar...__ | [link](https://www.fastify.io/) |
-| @types/styled-components   | Tipagem do styled-components | [link](https://www.fastify.io/) |
-| phosphor-react   | Biblioteca de ícones | [link](https://www.fastify.io/) |
+| styled-components   | __pesqisar...__ | [fastify.io](https://www.fastify.io/) |
+| @types/styled-components   | Tipagem do styled-components | [styled-components.com](https://styled-components.com/) |
+| phosphor-react   | Biblioteca de ícones | [phosphoricons.com](https://phosphoricons.com/) |
+| @radix-ui/react-dialog  | Biblioteca para estilizção html. Esse framework pertime estilização mais fácil | [radix-ui.com/docs/primitives/components/dialog](https://www.radix-ui.com/docs/primitives/components/dialog) |
