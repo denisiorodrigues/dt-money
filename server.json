@@ -6,7 +6,7 @@
       "type":"income",
       "category":"Venda",
       "price" : 1400,
-      "ceatedAt" :"2023-04-08T10:44:56.235Z"
+      "createdAt" :"2023-04-08T10:44:56.235Z"
     },
     {
       "id":2,
@@ -14,7 +14,7 @@
       "type":"outcome",
       "category":"Comida",
       "price" : 46,
-      "ceatedAt" :"2023-04-08T10:44:56.235Z"
+      "createdAt" :"2023-04-08T10:44:56.235Z"
     }
   ]
 }
