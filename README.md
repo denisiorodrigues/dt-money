@@ -1,4 +1,4 @@
-## DT Money - Pojeto financeiro
+## DT Money - Projeto financeiro
 
 # Descrição
 Um projeo para aplicar os conhecimento do curso de reactjs da rocketseat
