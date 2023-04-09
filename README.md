@@ -17,3 +17,5 @@ Um projeo para aplicar os conhecimento do curso de reactjs da rocketseat
 | @hookform/resolvers | Resolve a integração com o zod. | [react-hook-form.com](https://www.react-hook-form.com/) |
 | zod | Biblioteca para validação e formato de dados dos fomrulários. | [zod.dev](https://zod.dev/) |
 | axios | Biblioteca para fazer requisições http. | [axios-http.com](https://axios-http.com/) |
+| eslint | Resolve problemas no código e padroniza o desenvolvimento. | [eslint.org](https://eslint.org/) |
+| @rocketseat/eslint-config | Configuração do eslint da rocketseat | [github.com/rocketseat/eslint-config-rocketseat](https://github.com/rocketseat/eslint-config-rocketseat#readme) |
