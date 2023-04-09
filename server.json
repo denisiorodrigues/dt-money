@@ -1,28 +1,44 @@
 {
-  "transactions" : [
+  "transactions": [
     {
-      "id":1,
+      "id": 1,
       "description": "Desenvolvimento de site",
-      "type":"income",
-      "category":"Venda",
-      "price" : 1400,
-      "createdAt" :"2023-04-08T10:44:56.235Z"
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2023-04-08T10:44:56.235Z"
     },
     {
-      "id":2,
+      "id": 2,
       "description": "Pizza",
-      "type":"outcome",
-      "category":"Comida",
-      "price" : 46,
-      "createdAt" :"2023-04-08T10:44:56.235Z"
+      "type": "outcome",
+      "category": "Comida",
+      "price": 46,
+      "createdAt": "2023-04-08T10:44:56.235Z"
     },
     {
-      "id":3,
+      "id": 3,
       "description": "Fraldas",
-      "type":"outcome",
-      "category":"Comida",
-      "price" : 44,
-      "createdAt" :"2023-04-08T10:44:56.235Z"
+      "type": "outcome",
+      "category": "Comida",
+      "price": 44,
+      "createdAt": "2023-04-08T10:44:56.235Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 100000,
+      "category": "Desenvolvimento",
+      "type": "income",
+      "createdAt": "2023-04-09T05:08:48.942Z",
+      "id": 4
+    },
+    {
+      "description": "Café",
+      "price": 7,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-09T05:43:35.132Z",
+      "id": 5
     }
   ]
 }
