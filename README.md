@@ -16,3 +16,4 @@ Um projeo para aplicar os conhecimento do curso de reactjs da rocketseat
 | react-hook-forms | O React Hook Forms é uma biblioteca que auxiliará a organizar e padronizar as validações dos formulários por toda a aplicação com mais performance do que as concorrêntes. | [react-hook-form.com](https://www.react-hook-form.com/) |
 | @hookform/resolvers | Resolve a integração com o zod. | [react-hook-form.com](https://www.react-hook-form.com/) |
 | zod | Biblioteca para validação e formato de dados dos fomrulários. | [zod.dev](https://zod.dev/) |
+| axios | Biblioteca para fazer requisições http. | [axios-http.com](https://axios-http.com/) |
