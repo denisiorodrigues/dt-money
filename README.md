@@ -19,3 +19,5 @@ Um projeo para aplicar os conhecimento do curso de reactjs da rocketseat
 | axios | Biblioteca para fazer requisições http. | [axios-http.com](https://axios-http.com/) |
 | eslint | Resolve problemas no código e padroniza o desenvolvimento. | [eslint.org](https://eslint.org/) |
 | @rocketseat/eslint-config | Configuração do eslint da rocketseat | [github.com/rocketseat/eslint-config-rocketseat](https://github.com/rocketseat/eslint-config-rocketseat#readme) |
+| use-context-selector | Serve para selecionar uma única informação deve mudar | [github.com/dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector#readme) |
+| scheduler | Dependência do use-context-selector, elas devem ser instaladas juntas | [github.com/dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector#readme) |
